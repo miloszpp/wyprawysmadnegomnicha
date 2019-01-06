@@ -1,0 +1,34 @@
+home: Strona główna
+archives: Archiwum
+about: O stronie
+categories: Kategorie
+search: Szukaj
+tags: Tagi
+tagcloud: Tagi
+tweets: Tweety
+prev: Poprzednia
+next: Następna
+comment: Komentarze
+archive_a: Archiwum
+archive_b: "Archiwum: %s"
+page: Strona %d
+recent_posts: Ostatnie posty
+newer: Nowsze
+older: Starsze
+share: Udostępnij
+theme_by: Theme by
+rss_feed: RSS Feed
+category: Kategoria
+tag: Tag
+connect: 'Connect With Us'
+post_total_count: 'Liczba wszystkich postów: %d'
+read_more: Zobacz całość →
+contents: Zawartość
+none: None
+insight:
+    hint: 'Type something...'
+    posts: 'Posts'
+    pages: 'Pages'
+    categories: 'Categories'
+    tags: 'Tags'
+    untitled: '(Untitled)'
