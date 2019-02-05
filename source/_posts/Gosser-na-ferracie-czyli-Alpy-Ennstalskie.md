@@ -36,7 +36,7 @@ Umordowani wracamy na camping i przygotowujemy strawę. Chłopaki wyciągają br
 
 # Tieflingmauer i ferrata Teufelsteig
 
-Wyspani, bierzemy na warsztat ambitniejszą ferratę Teufelsteig (rzekomo C), która zaprowadzi nas na sczyt Tieflingmauer (1820 m.n.p.m.). Dziarsko zdobywamy większość wysokości docierając do Ennstaler Hutte - schroniska przyjemnie położonego na grani. Oddziela ona upstrzone granitem Alpy Ennstalskie od położonego na północ, znacznie łagodniejszego pasma.
+Wyspani, bierzemy na warsztat ambitniejszą ferratę Teufelsteig (rzekomo C), która zaprowadzi nas na szczyt Tieflingmauer (1820 m.n.p.m.). Dziarsko zdobywamy większość wysokości docierając do Ennstaler Hutte - schroniska przyjemnie położonego na grani. Oddziela ona upstrzone granitem Alpy Ennstalskie od położonego na północ, znacznie łagodniejszego pasma.
 
 Dzielimy z Oktawianem kufel regeneracyjnego napoju na pół - matematyka zawiodła i skończyło nam się euro. Obiecujemy sobie nadrobić wieczorem. Następnie czeka nas około półgodzinny spacer granią. Im bliżej ferraty, tym częściej odzywa się z oddali burza, co podnosi mi nieznacznie ciśnienie. 
 
@@ -68,7 +68,7 @@ Po 4 godzinach od wyjścia docieramy na szczyt. Jest tutaj zdecydowanie najbardz
 
 ![Oktawian jak zwykle ma za dużo energii](/images/austria-2018/14.png)
 
-W drodze powrotnej Oktawian postanawia zrobić sobie efektowne zdjęcie nad 100 metrowym urwiskiem. Jego próżność zostaje ukarana lotem plecaka na sam dół tego urwiska.
+W drodze powrotnej Oktawian postanawia zrobić sobie efektowne zdjęcie nad 100 metrowym urwiskiem. Jego próżność zostaje nagrodzona nie mniej efektownym lotem plecaka na sam dół tego urwiska.
 
 Docieramy do bazy późnym wieczorem. Gotujemy makaron, który topimy w sosie pomidorowym ze słoików i wkrótce idziemy spać. 
 
@@ -76,7 +76,7 @@ Docieramy do bazy późnym wieczorem. Gotujemy makaron, który topimy w sosie po
 
 Dzień ostatni, w nocy czeka nas powrót, więc postanawiamy za wszelką cenę uniknąć pokonywania 1,5 kilometra w pionie. Idealnie się składa, bo w okolicy znajduje się ferrata treningowa Johnsbach.
 
-Wsiadamy w samochód, odpalamy “Wspin” Jareckiego i podjeżdżamy pod ferratę. Wygląda imponująco - kawał skały, ze sto metrów pionowo w górę. Przy starcie tabliczka informująca, że ferrata jest prywatna i verbotten. Stoimy tam z pół godziny i patrzymy się na wspinający się ludzi. Postanawiamy jechać do miasteczka i zapytać o co chodzi. Pan w sklepie z pamiątkami stwierdza że wspinać się można, tylko żeby uważać. Uznajemy jego autorytet za wystaczający.
+Wsiadamy w samochód, odpalamy [Wspin](https://www.youtube.com/watch?v=aAVRd5q8Ltg) Jareckiego i podjeżdżamy pod ferratę. Wygląda imponująco - kawał skały, ze sto metrów pionowo w górę. Przy starcie tabliczka informująca, że ferrata jest prywatna i verbotten. Stoimy tam z pół godziny i patrzymy się na wspinający się ludzi. Postanawiamy jechać do miasteczka i zapytać o co chodzi. Pan w sklepie z pamiątkami stwierdza że wspinać się można, tylko żeby uważać. Uznajemy jego autorytet za wystaczający.
 
 Na skale poprowadzone jest kilka dróg o trudnościach kolejno C/D, D, D/E. Decydujemy się na start na najłatwiejszą. Trudności technicznych w zasadzie nie ma, bo cały czas idzie się po klamrach i drabinach. Za to ekspozycja… dla mnie było to nie lada przeżycie. Przejście zajęło nam około pół godziny. Ja jestem w pełni usatysfakcjonowany, Oktawian rusza jeszcze na D, które zawiera przewieszone elementy.
 
