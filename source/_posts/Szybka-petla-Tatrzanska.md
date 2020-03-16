@@ -19,11 +19,11 @@ Co najlepsze, plan udaje się zrealizować! Chociaż nie bez przygód...
 
 Wyprawa w składzie: Adaś, Miłosz, Oktawian.
 
-# Dzień 1: Zakopane
+## Dzień 1: Zakopane
 
 Do Zakopca wybieramy się porannym pociągiem. Urlopowa atmosfera w wagonie WARS szybko nam się udziela i podróż mija błyskawicznie. Docieramy na miejsce dosyć wcześnie, przed nami jeszcze sporo dnia. Wyjście w góry zaplanowaliśmy dopiero na następny dzień, więc popołudnie spędzamy na zwiedzaniu zakopiańskich knajp.
 
-# Dzień 2: Zawrat, Świnica i Pięć Stawów
+## Dzień 2: Zawrat, Świnica i Pięć Stawów
 
 Pomimo upojnego dnia poprzedniego, udaje nam się zwlec z łóżek wcześnie rano. Rezygnujemy z busa do Kuźnic i ruszamy z buta w ramach rozgrzewki. Całe szczęście, bo daje to Adasiowi szansę zauważyć, że z jego butami jest coś nie tak. Ogarniamy temat w sklepie w Kuźnicach i wbijamy na szlak do Murowańca.
 
@@ -43,7 +43,7 @@ Zejście do schronu dłuży się niemiłosiernie. Gdy docieramy, kupujemy kilka 
 
 ![Piwo chyba nie podeszło](/images/petla-2016/3.png)
 
-# Dzień 3: Morskie Oko, Rysy, Popradkse Pleso
+## Dzień 3: Morskie Oko, Rysy, Popradkse Pleso
 
 Poranek wysoko w górach - rewelacja! Zaliczamy piękny wschód słońca, zajadamy śniadanie i wyruszamy w drogę. Trzeba najpierw dotrzeć nad Morskie Oko, a to oznacza wspięcie się na Świstówkę i rychłą utratę z trudem nabytej wysokości. 
 
@@ -67,7 +67,7 @@ Moglibyśmy tam zostać jeszcze długo, ale trzeba na wieczór dotrzeć do Popra
 
 Docieramy zmordowani do schroniska i z radością odkrywamy, że jest tam pokój do suszenia rzeczy. Mamy w zasadzie wszystko mokre, więc jak znalazł. Wieczorem kontynuujemy spożycie lokalnych specyfików, słuchając wykładów profesora Tatarkiewicza i prowadząc filozoficzne dyskusje.
 
-# Dzień 4: Centralna Magistrala Tatrzańska i Chata Terry'ego
+## Dzień 4: Centralna Magistrala Tatrzańska i Chata Terry'ego
 
 Rano odkrywamy, że w pokoju do suszenia nasze rzeczy stały się jeszcze bardziej mokre. No nic, słońce wychodzi, więc może uda się wysuszyć rzeczy na plecakach.
 
@@ -87,7 +87,7 @@ Ze wszystkich zaliczonych do tej pory schronisk, tutaj jest na pewno najbardziej
 
 Wszystko byłoby pięknie gdyby nie to, że hajs się nie zgadza i euro nam się kończy. Niezbyt przyjaźnie nastawiona obsługa schroniska nie akceptuje PLN. Na szczęście znajdujemy rodaków i dokonujemy szybkiej konwersji - wieczór może toczyć się dalej.
 
-# Dzień 5: Czerwona Ławka, Rohatka i Dolina Białej Wody
+## Dzień 5: Czerwona Ławka, Rohatka i Dolina Białej Wody
 
 Dzień ostatni. Rezerwy energii na wyczerpaniu, a jeszcze trzeba wrócić. Nakręceni wizją świętowania sukcesu i ciepłego prysznica, zdobywamy się na ostatni wysiłek.
 

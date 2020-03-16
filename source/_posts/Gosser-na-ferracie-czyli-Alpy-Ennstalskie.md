@@ -16,13 +16,13 @@ Padło na Alpy Ennstalskie, które to znajdują się z “naszej” strony Austr
 
 W Alpy ruszamy w składzie: Dominik, Kasia, Miłosz, Oktawian.
 
-# Baza
+## Baza
 
 Zatem ruszyliśmy. Wyjazd z Warszawy w nocy, przyjazd około 6 rano. Parkujemy na campingu, śpimy godzinkę, śniadanie i wyruszamy. Nigdy jeszcze nie szedłem w góry po nieprzespanej nocy w samochodzie, ale wyjazd z założenia miał być intensywny i maksymalizować czas na szlaku.
 
 Śpimy na campingu [Forstgarten](http://www.landesforste.at/index.php?id=29). Gorąco polecam to miejsce - ciepła woda, spore łazienki, kuchnia z wyposażeniem, sklepik. Camping położony jest w urokliwej dolinie w Nationalpark Gesause. Na sporo szlaków można dostać się stąd pieszo. Najbliższy sklep/cywilizacja znajduje się w miasteczku Hielfau. 
 
-# Hesshutte
+## Hesshutte
 
 Na tapetę idzie schronisko Hesshutte, na drodze do którego widnieje ferrata oznaczona z tego co pamiętam jako A/B. Spore przewyższenie, niecałe 1000 metrów. Pogoda raczej niepewna. Po jakiejś godzinie marszu docieramy do wodospadu w sporej, stromej ścianie, który obiecuje niezłe wspinanie. Niestety, odcinek ferratowy nie następuje jeszcze przez kolejną godzinę. Gdy w końcu do niego docieramy, rozczarowuje na całej linii. W zasadzie są to schody z rozpiętą stalową liną. No nic, na rozgrzewkę dobre i to.
 
@@ -34,7 +34,7 @@ Na zejściu łapie nas burza i ulewa. Kurczący się odstęp pomiędzy błyskiem
 
 Umordowani wracamy na camping i przygotowujemy strawę. Chłopaki wyciągają browary, jednak ja pasuję - 36 godzin na nogach daje się we znaki.
 
-# Tieflingmauer i ferrata Teufelsteig
+## Tieflingmauer i ferrata Teufelsteig
 
 Wyspani, bierzemy na warsztat ambitniejszą ferratę Teufelsteig (rzekomo C), która zaprowadzi nas na szczyt Tieflingmauer (1820 m.n.p.m.). Dziarsko zdobywamy większość wysokości docierając do Ennstaler Hutte - schroniska przyjemnie położonego na grani. Oddziela ona upstrzone granitem Alpy Ennstalskie od położonego na północ, znacznie łagodniejszego pasma.
 
@@ -52,7 +52,7 @@ Pokonujemy spiesznie 800 metrów w dół, gdzie czeka na nas samochód. Udajemy 
 
 ![Na zdrowie!](/images/austria-2018/7.png)
 
-# Grosser Buchstein i ferrata Sudwandband Klettersteig
+## Grosser Buchstein i ferrata Sudwandband Klettersteig
 
 Poranek jest trudny. Co gorsza, okazuje się że nasz kolejny cel to 2224 m.n.p.m., w związku z czym czeka nas zabójcze 1600 metrów przewyższenia. Po drodze na mapie maluje się schronisko Buchsteinhaus na 1546 m.n.p.m., które asekuracyjnie obieram za swój osobisty cel na dziś.
 
@@ -72,7 +72,7 @@ W drodze powrotnej Oktawian postanawia zrobić sobie efektowne zdjęcie nad 100 
 
 Docieramy do bazy późnym wieczorem. Gotujemy makaron, który topimy w sosie pomidorowym ze słoików i wkrótce idziemy spać. 
 
-# Ferrata Johnsbach i powrót
+## Ferrata Johnsbach i powrót
 
 Dzień ostatni, w nocy czeka nas powrót, więc postanawiamy za wszelką cenę uniknąć pokonywania 1,5 kilometra w pionie. Idealnie się składa, bo w okolicy znajduje się ferrata treningowa Johnsbach.
 
