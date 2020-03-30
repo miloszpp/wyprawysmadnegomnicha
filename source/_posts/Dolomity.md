@@ -5,6 +5,7 @@ tags:
 ---
 
 To był mój pierwszy, porządny, wyjazd na ferraty. Rok wcześniej, podczas podróży do Włoch z Agnieszką, postanowiliśmy zatrzymać się na kilka dni w Cortinie d'Ampezzo - znanej górskiej miejscowości położonej w sercu Dolomitów. Wykorzystałem tę okazję, aby dokonać ferratowego rekonesansu - wypożyczyłem sprzęt i wybrałem się na dwie proste ferraty (_Nuvolau_ i _Averau_). Jeden dzień wystarczył, abym w kilka miesięcy po powrocie zabrał się za planowanie powrotu w te rejony.
+<!-- more --> 
 
 I tak oto, niecały rok po pierwszym spotkaniu z Dolomitami, znalazłem się w nich ponownie.
 
