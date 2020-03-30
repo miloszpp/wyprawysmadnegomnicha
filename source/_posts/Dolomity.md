@@ -1,7 +1,13 @@
 ---
-title: Dolomity
+title: Żelazne Dolomity
 date: 2017-07-09 20:37:37
 tags:
+  - dolomity
+  - ferraty
+  - włochy
+  - alpy
+categories:
+  - relacja z wyprawy
 ---
 
 To był mój pierwszy, porządny, wyjazd na ferraty. Rok wcześniej, podczas podróży do Włoch z Agnieszką, postanowiliśmy zatrzymać się na kilka dni w Cortinie d'Ampezzo - znanej górskiej miejscowości położonej w sercu Dolomitów. Wykorzystałem tę okazję, aby dokonać ferratowego rekonesansu - wypożyczyłem sprzęt i wybrałem się na dwie proste ferraty (_Nuvolau_ i _Averau_). Jeden dzień wystarczył, abym w kilka miesięcy po powrocie zabrał się za planowanie powrotu w te rejony.
@@ -29,6 +35,8 @@ Pogoda jest idealna - słońce świeci na całego. Rozpoczynamy wędrówkę. Pie
 
 Ferrata Ra Gusela jest wycaniana na A/B. Jest to naprawdę łatwa ferrata. Ubezpieczone fragmenty są dość krótkie i niezbyt eksponowane. Ferrata doprowadza nas na szczyt Nuvolau. Znajduje się tam schronisko, gdzie wypijam pierwsze capuccino w tym sezonie. Humory dopisują, chociaż wszyscy czują pewien niedosyt jeśli chodzi o ferratowe wyzwania.
 
+![Widok z Nuvolau.](/wyprawysmadnegomnicha/images//dolomity-2017/1.png)
+
 Na szczęście przed nami jeszcze druga ferrata. Schodzimy z Nuvolau i z marszu wbijam się w ferratę Averau. W przeciwieństwie do Ra Guseli, Averau jest już poważniejsza (wycena B). _Crux_ ferraty stanowi prawie pionowa ściana, na której niestety potrafi być dość tłoczno. Rok temu zaliczyłem na tej ścianie mały kryzys, w tym roku idzie mi już dużo lepiej (chodzenie na ściankę opłaciło się!). Reszta ekipy dzielnie pokonuje trudności, które dostarczają nam dużo więcej satysfakcji niż te na Ra Guseli. Docieramy na szczyt, gdzie świętujemy zwycięstwo i podziwiamy przepaściste widoki.
 
 ## Dzień 2: Ettore Bovero
@@ -41,6 +49,8 @@ Następnie wpinamy się w uprzęże i rozpoczynamy wspinaczkę. Ferrata definity
 
 Dalej robi się już co raz bardziej przepaściście. W pewnym momencie dochodzimy do trawersu po prawie pionowej ścianie, który jest techniczne prosty, ale pod nogami ma się kilkaset metrów powietrza. Muszę się mocno przekonywać, żeby iść dalej. Ostatecznie wygrywa strach przed powrotem tą samą drogą :)
 
+![Ferrata Ettore Bovero.](/wyprawysmadnegomnicha/images//dolomity-2017/2.png)
+
 Ferrata nie odpuszcza do samego końca. Groźniejszych miejsc jest jeszcze kilka i nadal nie ma za bardzo jak złapać oddech. W pewnym momencie Adaś, idący na czele, oznajmia koniec! Moja radość nie ma granic, gdy wdrapuję się na wypłaszczenie, z którego już tylko kilka minut do szczytu. Spędzamy tam sporo czasu, aż w końcu rozdzielamy się - Adaś i Oktawian postanawiają zejść tą samą drogą, a ja schodzę łagodnym zejściem.
 
 Wieczór upływa nam na wymianie wrażeń i relaksowaniu się po wyczerpującym dniu. 
@@ -51,9 +61,14 @@ Po mocnych wrażeniach dnia poprzedniego decydujemy się na coś spokojniejszeg
 
 Na miejsce, do Rifugio Auronzo, docieramy samochodem - wjeżdżamy dość wysoko płatną, wysokogórską. Na miejscu widoki nas powalają. Jest słonecznie, ale poranna mgła nadal spowija okolicę, nadając jej onirycznego nastroju. Rejon Tre Cime jest jednym z tych, gdzie podczas Pierwszej Wojny Światowej toczyły się zaciekłe walki pomiędzy Austriakami i Włochami. Piękno przyrody mocno kontrastuje z ponurą historią tego miejsca.
 
+![Tre Cime we mgle.](/wyprawysmadnegomnicha/images//dolomity-2017/3.png)
+
 Idziemy wzdłóź trzech palców i dochodzimy do kolejnego schroniska. Tam spożywamy śniadanie i kierujemy się w lewo, chcąc obejść Palce dookoła. W pewnym momencie szlak rozwidla się na wariant spacerowy oraz ferratowy. Wybieramy ferratę.
 
 Ferrata jest dość ciekawa, prowadzi w dużej mierze przez tunele z czasów wojny. Po wczoraj, trudności nie robią na nas żadnego wrażenia. Po przejściu części tunelowej dochodzimy do miejsca, z którego odbija szlak na szczyt Paternkofel. Jest to zecydowania najfajniejsza część ferraty. Ze szczytem wiąże się historia Seppa Innerkoflera, austriackiego przewodnika i żołnierza, który wspiął się na górę w celu zlikwidowania znajdującego się tam stanowiska dział i karabinów maszynowych. Po rzuceniu na szczyt kilka granatów, zginął trafiony zrzuconym przez Włochów głazem. Więcej do poczytania [tutaj](http://www.worldwar1.com/itafront/sepp_ink.htm).
+
+
+![Tre Cime w pełnej okazałości.](/wyprawysmadnegomnicha/images/dolomity-2017/4.png)
 
 Po zejściu z ferraty zatrzymujemy się w schronisku, a następnie dopełniając pętli, docieramy do samochodu. Wieczorem zapada decyzja - następnego dnia atakujemy wielogodzinną, wycenianą na C/D, ferratę Giovanni Lipella, która zaprowadzi nas na trzytysięcznik Tofana di Rozes (3225 m.n.p.m.).
 
@@ -63,7 +78,11 @@ Wstajemy wcześniej, bo przed nami długi dzień. Samochodem wjeżdżamy na pona
 
 Zaczynamy od niezbyt ekscytującego podejścia. Po godzinie dochodzimy do początku ferraty - zaczyna się od drabiny wkraczającej w mroczny tunel. Niezbędne są tutaj czołówki. Przejście tunelami trwa dość długo, ale jest technicznie proste. Po wyjściu z tuneli wkraczamy w surowy, skalisty krajobraz masywu Tofana. Wpięci w linę jesteśmy niemalże bez przerwy. Ferrata nie jest tak intensywna jak Ettore Bovero - jest gdzie odpocząć. Zdarzają się jednak trudne, wyeksponowane miejsca. Sama długość ferraty jest również imponująca. Całe wejście zajmuje nam około 5 godzin, z czego większość jest w ścianie.
 
+![Giovanni Lipella.](/wyprawysmadnegomnicha/images//dolomity-2017/5.png)
+
 Kuliminacyjny moment ferraty to tak zwany Amfiteatr. Jest to długi, mocno wyeksponowany odcinek prawie ciągłej wspinaczki. Przed nami ktoś odpada ze ściany, potem widzimy na skale ślady krwi - robi się groźnie. Ja łapię kryzys pod sam koniec, na odcinku po którym spływa topiący się na górze śnieg - jest tak ślisko, że nie mam odwagi zaprzeć się o ścianę. Z opresji ratują mnie Adaś i Oktawian.
+
+![Amfiteatr Tofany.](/wyprawysmadnegomnicha/images//dolomity-2017/6.png)
 
 Ferrata wyprowadza nas na przełęcz, z której to na szczyt już tylko pół godziny. Jesteśmy potwornie zmęczeni, do tego wiatr wieje okropnie. Satysfakcja jest jednak ogromna, tym bardziej że dla wszystkich z nas to było pierwsze przekroczenie bariery 3000 m.n.p.m. W dole chmury, które tylko chwilami prześwitują ukazując pyszne widoki. 
 
